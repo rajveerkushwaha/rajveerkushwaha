@@ -1,120 +1,123 @@
-<!-- FULL COLORFUL HACKER README | SINGLE BLOCK -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World!%22)%3B;I'm+Rajveer+Kushwaha;Cybersecurity+Analyst+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Red+Teamer+%7C+Ethical+Hacker;Founder+of+Cyber+Swipe" alt="Typing SVG" />
 
 <p align="center">
-<img src="https://i.ibb.co/34C9tQJ/matrix-code.gif" width="100%">
+  <a href="https://github.com/rajveerkushwaha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/rajveer-kushwaha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tryhackme.com/p/rajveerkushwaha9">
+    <img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://www.youtube.com/@raj-veerkushwaha">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:rajveerkushwaha9559@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://rajveerkushwaha.engineer">
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
-<h1 align="center">🛡️ RAJVEER KUSHWAHA</h1>
-<p align="center">Varanasi, Uttar Pradesh | +91 9653005671 | rajveerkushwaha9559@gmail.com</p>
+<img src="https://komarev.com/ghpvc/?username=rajveerkushwaha&label=TRAFFIC&color=20C20E&style=for-the-badge" alt="rajveerkushwaha" />
 
-<p align="center">
-<a href="https://github.com/rajveerkushwaha"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=#00FF00"></a>
-<a href="https://linkedin.com/in/rajveer-kushwaha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#00FF00"></a>
-<a href="https://tryhackme.com/p/rajveerkushwaha9"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=#00FF00"></a>
-<a href="https://www.youtube.com/@raj-veerkushwaha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=#00FF00"></a>
-<a href="https://instagram.com/rajveerkushwaha70"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=#00FF00"></a>
-<a href="https://rajveerkushwaha.engineer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#00FF00"></a>
-</p>
+</div>
 
 ---
 
-## 💫 About Me
-```
-I’m currently working on cybersecurity projects including penetration testing, vulnerability assessment, and secure software development.
-Managing Cyber Swipe – cyber resources and educational content platform.
+### 🕵️‍♂️ Mission Profile: About Me
 
-• Collaborating on open-source cybersecurity projects and CTF/Hackathon challenges
-• Learning advanced Kali Linux tools, exploit techniques, threat hunting, incident response, Python/Bash automation
-• Ask me about Metasploit, Nmap, Nessus, BurpSuite, Splunk, Wazuh
+<img align="right" width="350" src="https://media.giphy.com/media/iIGF6R8oYTAqJ8P1Ea/giphy.gif" alt="Cyberpunk GIF" />
 
-Fun fact:
-• Solved 50+ TryHackMe rooms
-• Organized Cyberthon with 160+ participants
-• Winner – Shark Tank & Yuva Kaushal
-```
+> *"I break things to learn how to fix them."*
 
----
+I am a **Cybersecurity Engineering Student** at **Lamrin Tech Skills University** and the Founder of **Cyber Swipe**. My expertise lies in securing infrastructure, simulating attacks, and automating defense mechanisms.
 
-## 🔧 Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=#00FF00">
-<img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=#00FF00">
-</p>
+* 🔭 **Current Operation:** Enhancing **Ransom-Sim** (Ransomware Simulation) & managing **Cyber Swipe** resources.
+* 🌱 **Loading Modules:** Advanced **Malware Analysis**, **Splunk**, & **SOC Operations**.
+* 🤝 **Collaboration:** Open to Red Teaming projects & CTF Hosting.
+* ⚡ **Achievements:** * **Winner:** Shark Tank & Yuva Kaushal Events.
+    * **Top 1%:** Solved 50+ Rooms on TryHackMe.
+    * **Leader:** Organized Cyberthon (160+ attendees).
 
 ---
 
-## ⚙️ Projects
-```
-• Cyber Swipe – Tech resource and educational platform
-• Smart Street Light System – Adaptive lumination control
-• Smart Keypad Locker – Multi-layer authentication system
-• Ransom-Sim – Ransomware simulation lab environment
-```
+### ⚔️ The Arsenal (Tech Stack)
+
+<div align="center">
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=python,bash,cpp,js,powershell&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,wireshark,idea&theme=dark" />
+  </a>
+  
+  <br><br>
+  <img src="https://img.shields.io/badge/Metasploit-6C5CE7?style=flat-square&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-F76B1C?style=flat-square&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-FF6C37?style=flat-square&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Nessus-FC5C3D?style=flat-square&logo=nessus&logoColor=white">
+  <img src="https://img.shields.io/badge/Shodan-0F0F0F?style=flat-square&logo=shodan&logoColor=white">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-00B5E2?style=flat-square&logo=wazuh&logoColor=white">
+</div>
 
 ---
 
-## 🏆 Achievements
-```
-• Winner – Shark Tank & Yuva Kaushal
-• IBM ICE Hackathon College Representative
-• Solved 50+ TryHackMe rooms
-• Organized Cyberthon – Hack The Future (160+ participants)
-• YouTube Cyber Content Creator (@raj-veerkushwaha)
-```
+### 💻 Deployed Projects
+
+| 📂 Project | 📝 Protocol / Description | 🛠️ Core Tech |
+| :--- | :--- | :--- |
+| **Cyber Swipe** | Educational platform for cyber resources, event updates, and hacking tutorials. | `HTML5` `CSS3` `JS` |
+| **Ransom-Sim** | A controlled ransomware simulation environment to analyze encryption behaviors and attack vectors. | `Python` `Crypto` `VM` |
+| **Smart Keypad** | Secure digital locker system featuring multi-layer authentication and logic-based locking. | `C++` `IoT` `Sensors` |
+| **Smart Street Light** | Automated energy efficiency system using IR sensors and adaptive brightness algorithms. | `IoT` `Automation` |
 
 ---
 
-## 📜 Certifications
-```
-• OWASP Top 10 Security Best Practices
-• Kali Linux for Ethical Hackers – Udemy
-• Real Power of Nmap – Udemy
-• Cybersecurity Fundamentals – IBM SkillsBuild
-• Operating Systems Basics – Cisco Networking Academy
-• Communication Skills – TCS iON
-• Certified Cybersecurity Educator Professional (CCEP) – Red Team Leaders
-```
+### 📜 Certifications & Knowledge Base
 
----
-
-### 📊 GitHub Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajveerkushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00"/>
+<details>
+<summary><b>Click to expand my Certification List</b></summary>
 <br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=rajveerkushwaha&theme=dark&hide_border=false&fire_color=00FF00"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveerkushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00&icon_color=00FF00"/>
-</p>
+<ul>
+    <li>🎓 <b>Certified Cybersecurity Educator Professional (CCEP)</b></li>
+    <li>🛡️ <b>OWASP Top 10 Security Best Practices</b></li>
+    <li>🐧 <b>Kali Linux for Ethical Hackers</b> (Udemy)</li>
+    <li>🕸️ <b>Real Power of Nmap</b> (Udemy)</li>
+    <li>🔒 <b>Cybersecurity Fundamentals</b> (IBM SkillsBuild)</li>
+    <li>💻 <b>Operating Systems Basics</b> (Cisco Networking Academy)</li>
+    <li>🗣️ <b>Communication Skills</b> (TCS iON)</li>
+</ul>
+</details>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajveerkushwaha&theme=matrix&no-frame=true&no-bg=true&margin-w=4">
-</p>
+### 📊 Github Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajveerkushwaha&theme=darkhub&no-frame=true&row=1&column=7" width="100%" />
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rajveerkushwaha&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveerkushwaha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajveerkushwaha&theme=react&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="streak graph" />
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
-</p>
-
----
-
-<p align="center">
-<img src="https://i.ibb.co/34C9tQJ/matrix-code.gif" width="100%">
-</p>
-
-<h2 align="center">SYSTEM ONLINE • MATRIX NODE ACTIVE • ACCESS GRANTED</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=000000,20C20E,000000"/>
+  <p><i>"Security is not a product, but a process."</i></p>
+</div>
