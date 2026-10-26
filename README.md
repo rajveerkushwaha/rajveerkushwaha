@@ -41,7 +41,7 @@ I am a **Cybersecurity Engineering Student** at **Lamrin Tech Skills University*
 * 🌱 **Loading Modules:** Advanced **Malware Analysis**, **Splunk**, & **SOC Operations**.
 * 🤝 **Collaboration:** Open to Red Teaming projects & CTF Hosting.
 * ⚡ **Achievements:** * **Winner:** Shark Tank & Yuva Kaushal Events.
-    * **Top 1%:** Solved 50+ Rooms on TryHackMe.
+    * **Top 1%:** Solved 100 Rooms on TryHackMe.
     * **Leader:** Organized Cyberthon (160+ attendees).
 
 ---
